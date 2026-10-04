@@ -1,11 +1,11 @@
-# ☕ Core Java: Learning Repository
+# ☕ Java Learning Repository
 
-A chapter-wise collection of **Core Java** notes, examples and practice problems, written while learning the language from scratch.
+A chapter-wise collection of **Java** notes, examples and practice problems, written while learning the language from scratch.
 Every example is small, runnable and focused on a single concept.
 
 ![Language](https://img.shields.io/badge/language-Java-orange)
 ![Status](https://img.shields.io/badge/status-learning-blue)
-![Focus](https://img.shields.io/badge/focus-Core%20Java-green)
+![Focus](https://img.shields.io/badge/focus-Java%20Basics%20to%20Advanced-green)
 
 ---
 
@@ -14,19 +14,18 @@ Every example is small, runnable and focused on a single concept.
 1. [About](#-about)
 2. [Repository Structure](#-repository-structure)
 3. [Topics Covered](#-topics-covered)
-4. [Topics Still To Learn](#-topics-still-to-learn)
-5. [Prerequisites](#-prerequisites)
-6. [How to Run](#-how-to-run)
-7. [Learning Path](#-learning-path)
-8. [Conventions](#-conventions)
-9. [Contributing / Feedback](#-contributing--feedback)
-10. [Author](#-author)
+4. [Prerequisites](#-prerequisites)
+5. [How to Run](#-how-to-run)
+6. [Learning Path](#-learning-path)
+7. [Conventions](#-conventions)
+8. [Contributing / Feedback](#-contributing--feedback)
+9. [Author](#-author)
 
 ---
 
 ## 📖 About
 
-This repository documents my journey through Core Java, from the very first `Hello World` to multithreading and functional programming.
+This repository documents my journey through Java, from the very first `Hello World` to multithreading and functional programming.
 It is organised in chapters. Each chapter is made of small independent projects, so you can open any folder and run it on its own.
 
 **Goals**
@@ -132,30 +131,6 @@ _JAVA_/
 - [x] Streams: `filter`, `reduce`
 - [x] Method references (`::`)
 - [x] `Optional`
-
----
-
-## 🚧 Topics Still To Learn
-
-Core Java topics not covered yet. I will add them chapter by chapter.
-
-- [ ] Custom exceptions
-- [ ] `Comparable` and `Comparator`
-- [ ] `Iterator`
-- [ ] Advanced Streams: `map`, `Collectors`, `groupingBy`
-- [ ] `CompletableFuture`
-- [ ] Locks, `Atomic` classes, `ConcurrentHashMap`
-- [ ] Date and Time API (`LocalDate`, `LocalDateTime`)
-- [ ] Records, text blocks, sealed classes
-- [ ] Serialization
-- [ ] Regular expressions
-- [ ] Annotations and Reflection
-- [ ] Dependency Injection (manual first, then with a framework)
-- [ ] Networking and sockets
-- [ ] JDBC (database connectivity)
-- [ ] JUnit and unit testing
-- [ ] Maven / Gradle
-- [ ] Spring Boot
 
 ---
 
